@@ -6,7 +6,8 @@ I've created a small browser application 📱 in swift using Webview and UIkit.
 ## Libraries Used
 Libraries used in this project are as follows:
 - UIkit
-- Foundatio
+- Webkit
+- Foundation
 
 ## Installation Setup
 #### 1. Clone the repository
