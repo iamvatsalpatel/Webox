@@ -10,7 +10,7 @@ Libraries used in this project are as follows:
 
 ## Installation Setup
 #### 1. Clone the repository
-You can clone this repository using command: ``https://github.com/iamdhrutipatel/Breasttest.git``
+You can clone this repository using command: ``https://github.com/iamvatsalpatel/SwiftWebView.git``
 
 #### 2. Open ``Webview.xcodeproj``
 
